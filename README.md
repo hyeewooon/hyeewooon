@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Github Stats
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeewooon&show_icons=true&theme=dark)
+
+#### Baekjoon Solved Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeewooon)](https://solved.ac/hyeewooon)
+
 <!--
 **hyeewooon/hyeewooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
