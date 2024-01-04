@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
+I'm a frontend developer.  
+I love working with React and Next.js, and I'm passionate about cool and easy-to-use interfaces.  
+Let's code and create something amazing together! 💻✨
 
-#### Github Stats
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeewooon&show_icons=true&theme=dark)
-
-#### Baekjoon Solved Rank
+#### My Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeewooon)](https://solved.ac/hyeewooon)
 
 <!--
