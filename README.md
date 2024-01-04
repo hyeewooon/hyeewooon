@@ -1,6 +1,6 @@
 ### Hello there! 👋
 I'm a frontend developer.  
-I love working with React and Next.js, and I'm passionate about cool and easy-to-use interfaces.  
+I love working with React and Next.js, and I'm passionate about making cool and easy-to-use interfaces.  
 Let's code and create something amazing together! 💻✨
 
 #### My Baekjoon Solved Rank
